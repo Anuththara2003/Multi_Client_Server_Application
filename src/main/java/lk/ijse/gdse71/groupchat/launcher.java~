@@ -1,0 +1,7 @@
+package lk.ijse.gdse71.groupchat;
+
+public class launcher {
+    public static void main(String[] args) {
+        
+    }
+}
